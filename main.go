@@ -9,6 +9,7 @@ import (
 	"strconv"
 )
 
+//Response struct for response object
 type Response struct {
 	Method string
 	Value  string
